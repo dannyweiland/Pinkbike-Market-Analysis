@@ -1,2 +1,4 @@
 # Pinkbike-Market-Analysis
-Analyzing used mountain bike data from the Pinkbike.com buy/sell section
+Analyzing used mountain bike data from the Pinkbike.com buy/sell section.  Wrote a webscraping script in Python using Beautifulsoup, cleaned data in Excel, and analyzed/visualized in Tableau.  
+
+
